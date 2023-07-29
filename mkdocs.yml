@@ -1,0 +1,22 @@
+site_name: Test 
+theme: 
+    name: 'readthedocs' 
+nav:
+    - Service Virtualization Home: 'index.md'
+    - Service Virtualization Roadmap: 'Service Virtualization Roadmap.md'
+    - Service Virtualization vs Mocking: 'Service Virtualization vs Mocking.md'
+    - MounteBank:
+        - Main: 'MounteBank.md'
+        - Mountebank Getting Started Tutorial: 'Mountebank Getting Started Tutorial.md'
+        - Mountebank Installation:
+            - Main: 'Mountebank Installation.md'
+            - Mountebank Local Setup: 'Mountebank Local Setup.md'
+            - Mountebank Getting Mountebank Up And Running in AWS:
+                - Main: 'Mountebank Getting Mountebank Up And Running in AWS.md'
+                - 1 - Configuring Infrastructure: '1 - Configuring Infrastructure.md'
+                - 2 - Deploying Infrastructure With HAL: '2 - Deploying Infrastructure With HAL.md'
+                - 3 - Configuring Application Deployment: '3 - Configuring Application Deployment.md'
+                - 4 - Updating CircleCI and HAL .YAML Files: '4 - Updating CircleCI and HAL .YAML Files.md'
+                - 5 - Building And Deploying: '5 - Building And Deploying.md'
+        - Mountebank Architectural Diagram: 'Mountebank Architectural Diagram.md'
+        - Mountebank FAQS: 'Mountebank FAQS.md'
